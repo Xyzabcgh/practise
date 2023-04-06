@@ -1,0 +1,40 @@
+body{
+    font-size: 15px;
+    background-color:  hsl(212, 45%, 89%);
+}
+
+
+.qrclass
+{
+    
+    width: 210px;
+    height:210px;
+    position:relative;
+    left:30px;
+    right:30px;
+    top:25px;
+    
+    border-radius: 4px;
+
+}
+.main{
+    background-color: white;
+    height: 400px;
+    margin:200px auto 200px auto;
+    width: 270px;
+    border-radius: 4px;
+}
+.Content{
+    color:rgb(145, 145, 145);
+    font-size: 14px;
+    position: relative;
+    top: 45px;
+    left:30px;
+    right:30px;
+    text-align: center;
+    width:210px;
+}
+.COntent1{
+    color:black;
+    font-size: 18px;
+}
